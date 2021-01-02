@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Amin I am a former aircraft engineer :airplane: starting his journey as a web developer
-a Tech Enthusiast, Who Likes Building Things In React.JS
+Junior Web Developer with a demonstrated history of working in the aviation and aerospace industry. Strong engineering professional skilled in JS, Requirements Analysis, UI/UX, Pyhton, and Agile Methodologies. 
+
 <!--
 **Amine-Hmi/Amine-Hmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
