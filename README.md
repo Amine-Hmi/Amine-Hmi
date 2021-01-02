@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Amin I am a former aircraft engineer :airplane: converted to web developement
 
 <!--
 **Amine-Hmi/Amine-Hmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
