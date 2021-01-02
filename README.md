@@ -1,6 +1,8 @@
 ### Hi there 👋
 Junior Web Developer with a demonstrated history of working in the aviation and aerospace industry. Strong engineering professional skilled in JS, Requirements Analysis, UI/UX, Pyhton, and Agile Methodologies. 
 
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Amine-Hmi&show_icons=true&theme=synthwave)](https://github.com/Amine-Hmi/github-readme-stats)
+
 <!--
 **Amine-Hmi/Amine-Hmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
